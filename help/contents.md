@@ -2,11 +2,11 @@
 
 There are three ways to get help:
 
-**Helpdesk (Programmeerbalie)** (online/on campus): You can book a slot to get to talk directly to an assistant. [Helpdesk info](/help#helpdesk)
+**Helpdesk (Programmeerbalie)** (online/on campus): You can book a slot to get to talk directly to an assistant. [Helpdesk info](/general-info/help#helpdesk)
 
-**Lab sessions** (on campus): You'll work on campus (together with other students) in a classroom. You can ask us questions while you're working on your assignments. [Lab info](/help#lab-sessions)
+**Lab sessions** (on campus): You'll work on campus (together with other students) in a classroom. You can ask us questions while you're working on your assignments. [Lab info](/general-info/help#lab-sessions)
 
-**Forum** (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff. [Ed info](/help#ed)
+**Forum** (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff. [Ed info](/general-info/help#ed)
 
 ## Schedule helpdesk and lab sessions
 
