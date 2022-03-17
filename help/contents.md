@@ -10,7 +10,7 @@ There are three ways to get help:
 
 ## Schedule helpdesk and lab sessions
 
-### Blok 4 (February 7 - March 25)
+### Block 4 (February 7 - March 25)
 
 |       | Mon                           | Tue                       | Wed                       | Thu                       | Fri                           |
 |:-----:|:-----------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-----------------------------:|
@@ -19,7 +19,7 @@ There are three ways to get help:
 |       |                               |                           |                           |                           |                               |
 | 15-17 | Helpdesk <br /> (A1.22)       | Helpdesk <br /> (A1.22)   | Helpdesk <br /> (A1.22)   |                           |                               |
 
-### Blok 5 (April 4 - May 25)
+### Block 5 (April 4 - May 25)
 
 |       | Mon                           | Tue                       | Wed                   | Thu                           | Fri                           |
 |:-----:|:-----------------------------:|:-------------------------:|:---------------------:|:-----------------------------:|:-----------------------------:|
