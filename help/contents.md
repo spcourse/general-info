@@ -10,12 +10,23 @@ There are three ways to get help:
 
 ## Schedule helpdesk and lab sessions
 
+### Blok 4 (February 7 - March 25)
+
 |       | Mon                           | Tue                       | Wed                       | Thu                       | Fri                           |
 |:-----:|:-----------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-----------------------------:|
 | 9-11  |                               | Lab <br /> (G2.02) |                           | Lab <br /> (B0.206) | Helpdesk <br /> (online only) |
 |       |                               |                           |                           |                           |                               |
 |       |                               |                           |                           |                           |                               |
 | 15-17 | Helpdesk <br /> (A1.22)       | Helpdesk <br /> (A1.22)   | Helpdesk <br /> (A1.22)   |                           |                               |
+
+### Blok 5 (April 4 - May 25)
+
+|       | Mon                           | Tue                       | Wed                   | Thu                           | Fri                           |
+|:-----:|:-----------------------------:|:-------------------------:|:---------------------:|:-----------------------------:|:-----------------------------:|
+| 9-11  |                               |                           |                       | Helpdesk <br /> (online only) | Lab <br /> (G0.18 B)          |
+| 11-13 |                               |                           | Lab <br /> (G0.18 A)  |                               |                               |
+|       |                               |                           |                       |                               |                               |
+| 15-17 | Helpdesk <br /> (A1.22)       | Helpdesk <br /> (A1.22)   |                       | Helpdesk <br /> (A1.22)       |                               |
 
 ## Helpdesk
 
