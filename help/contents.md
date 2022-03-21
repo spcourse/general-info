@@ -69,7 +69,7 @@ Again, **if your pace doesn't match the schedule you're still encouraged to go t
 The schedule:
 
 | Period    | Level         | Subject                                                                                                     |
-|:---------:|:-------------:|:-----------------------------------------------------------------------------------------------------------:|
+|---------|-------------|-----------------------------------------------------------------------------------------------------------|
 | Apr 4-8   | SP1 - Level 1 | Terminal use (tips & tricks).                                                                               |
 |           | SP1 - Level 1 | Basic principles: reading code (execution order), programming using pen and paper, using loops.             |
 | Apr 11-15 | SP1 - Level 2 | How to use functions.                                                                                       |
