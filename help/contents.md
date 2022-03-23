@@ -71,19 +71,19 @@ The schedule:
 | Period    | Level         | Subject                                                                                                     |
 |---------|-------------|-----------------------------------------------------------------------------------------------------------|
 | Apr 4-8   | SP1 - Level 1 | Terminal use (tips & tricks).                                                                               |
-|           | SP1 - Level 1 | Basic principles: reading code (execution order), programming using pen and paper, using loops.             |
-| Apr 11-15 | SP1 - Level 2 | How to use functions.                                                                                       |
-|           | SP1 - Any     | Programming Style and code quality.                                                                         |
-| Apr 18-22 | Any           | Peer review assignment. You'll partner up and discuss your code with someone who follows the same pace.     |
-|           | SP1 - Any     | Debugging: how to read errors and use them to understand what's wrong.                                      |
-| Apr 25-29 | SP1 - Any     | What is hard-coding? (And how to avoid it.)                                                                 |
-|           | SP1 - Level 4 | How to write efficient and readable code?                                                                   |
-| May 9-13  | SP2 - Level 5 | Complexity 1                                                                                                |
+|           | SP2 - Level 5 | Complexity 1                                                                                                |
 |           | SP2 - Level 5 | What is a main function? (And how to use it.)                                                               |
+| Apr 11-15 | SP1 - Level 1 | Basic principles: reading code (execution order), programming using pen and paper, using loops.             |
 |           | SP2 - Level 5 | Dictionaries (tips & tricks)                                                                                |
-| May 16-20 | SP2 - Level 6 | Complexity 2                                                                                                |
-|           | SP2 - Level 6 | How to use map, filter, and reduce?                                                                         |
+| Apr 18-22 | SP1 - Level 2 | How to use functions.                                                                                       |
+|           | SP2 - Level 6 | Complexity 2                                                                                                |
+| Apr 25-29 | SP1 - Any     | Programming Style and code quality.                                                                         |
+|           | Any           | Peer review assignment. You'll partner up and discuss your code with someone who follows the same pace.     |
 |           | SP2 - Level 6 | Using packages                                                                                              |
-| May 23-27 | SP2 - Level 7 | Discussing the News assignment.                                                                             |
+|           | SP2 - Level 6 | How to use map, filter, and reduce?                                                                         |
+| May 9-13  | SP1 - Any     | Debugging: how to read errors and use them to understand what's wrong.                                      |
+|           | SP2 - Level 7 | Discussing the News assignment.                                                                             |
+| May 16-20 | SP1 - Any     | What is hard-coding? (And how to avoid it.)                                                                 |
+|           | SP2 - Level 7 | How to use Jupyter Notebooks?                                                                               |
+| May 23-27 | SP1 - Level 4 | How to write efficient and readable code?                                                                   |
 |           | SP2 - Level 7 | How to use programming as a research tool (the Mushroom assignment)?                                        |
-|           | SP2 - Level 7 | How to use jupyter notebooks?                                                                               |
