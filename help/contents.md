@@ -10,15 +10,6 @@ There are three ways to get help:
 
 ## Schedule helpdesk and lab sessions
 
-### Block 4 (February 7 - March 25)
-
-|       | Mon                           | Tue                       | Wed                       | Thu                       | Fri                           |
-|:-----:|:-----------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-----------------------------:|
-| 9-11  |                               | Lab <br /> (G2.02) |                           | Lab <br /> (B0.206) | Helpdesk <br /> (online only) |
-|       |                               |                           |                           |                           |                               |
-|       |                               |                           |                           |                           |                               |
-| 15-17 | Helpdesk <br /> (A1.22)       | Helpdesk <br /> (A1.22)   | Helpdesk <br /> (A1.22)   |                           |                               |
-
 ### Block 5 (April 4 - May 25)
 
 |       | Mon                           | Tue                       | Wed                   | Thu                           | Fri                           |
@@ -50,8 +41,8 @@ The lab sessions are the most classic way of getting help with your programming.
 
 * There are lab sessions on campus (Monday afternoon and Wednesday evening).
 * All these sessions take place on Science Park. Check [Datanose](https://datanose.nl/#course[99564]) for precise locations.
-* If you plan to go to a lab session please reserve a spot using this link: [booking](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/DMs1BphJ8U6A--L7PtN9tQ2). This is just to make absolutely sure in Covid times that there is enough space for everyone. If you cannot book a slot, please send me an email: <scientific@mprog.nl>.
-<!-- * *Booking is not needed anymore. You can join these sessions whenever you want.* -->
+<!-- * If you plan to go to a lab session please reserve a spot using this link: [booking](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/DMs1BphJ8U6A--L7PtN9tQ2). This is just to make absolutely sure in Covid times that there is enough space for everyone. If you cannot book a slot, please send me an email: <scientific@mprog.nl>. -->
+* *Booking is not needed anymore. You can join these sessions whenever you want.*
 * This is a good place to work on your assignments and get immediate help.
 * This is the main place where you can meet other students.
 * There is no online version of this. If you want to work online, you can always use the helpdesk to talk to an assistant.
