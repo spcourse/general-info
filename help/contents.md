@@ -10,16 +10,21 @@ There are three ways to get help:
 
 ## Schedule helpdesk and lab sessions
 
-### Block 5 (April 4 - May 25)
+### Block 1 (Sep 5 - Oct 26)
 
 |       | Mon                      | Tue                       | Wed                   | Thu                       | Fri                           |
 |:-----:|:------------------------:|:-------------------------:|:---------------------:|:-------------------------:|:-----------------------------:|
-| 9-11  |                          | Helpdesk <br /> (online)  |                       | Helpdesk <br /> (online)  |                               |
+| 9-11  |                          | Helpdesk <br /> (online)*  |                       | Helpdesk <br /> (online)  |                               |
 | 11-13 |                          |                           |                       |                           |                               |
 | 13-15 |                          |                           |                       |                           | Lab <br /> (L1.01)            |
-| 15-17 | Helpdesk <br /> (online) |                           | Lab <br /> (C0.05/L1.02*) |                       |                               |
+| 15-17 | Helpdesk <br /> (online)* |                          | Lab <br /> (C0.05/L1.02)** |                       |                               |
 
-*Note, September 7: L1.02, all other dates: C0.05
+*: Not in the first week (5/6 sept).
+**: September 7: L1.02, all other dates: C0.05
+
+### Block 2 (Oct 31 - Dec 23)
+
+Not yet know. Schedule will appear here.
 
 ## Helpdesk
 
@@ -29,8 +34,8 @@ There are three ways to get help:
 <!-- [book a slot](https://balie.mprog.nl/planner/4-scientific-programming) -->
 * Join us using this link: [Online Scientific Programming Lab](https://www.wonder.me/r?id=e57e2eb3-a410-4833-98f5-01b2d982d488)
 
-
 ## Ed
+
 We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
 
 * Use the forum: [Ed forum](https://edstem.org/us/courses/27745/discussion/).
@@ -39,6 +44,7 @@ We use Ed as an online discussion platform. Here you can discuss the assignments
 * When you use Ed, try to formulate your question clearly. Use code fragments to illustrate the problem. But, *never copy your entire code* here (this would make it too tempting for your fellow students to copy your code).
 
 ## Lab sessions
+
 The lab sessions are the most classic way of getting help with your programming. You'll work on campus (together with other students) in a classroom. You can ask us questions while you're working on your assignments.
 
 * There are lab sessions on campus (Monday afternoon and Wednesday evening).
