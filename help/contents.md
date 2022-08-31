@@ -14,7 +14,7 @@ There are three ways to get help:
 
 |       | Mon                      | Tue                       | Wed                   | Thu                       | Fri                           |
 |:-----:|:------------------------:|:-------------------------:|:---------------------:|:-------------------------:|:-----------------------------:|
-| 9-11  |                          | Helpdesk <br /> (online)*  |                       | Helpdesk <br /> (online)  |                               |
+| 9-11  |                          | Helpdesk <br /> (online)* |                       | Helpdesk <br /> (online)  |                               |
 | 11-13 |                          |                           |                       |                           |                               |
 | 13-15 |                          |                           |                       |                           | Lab <br /> (L1.01)            |
 | 15-17 | Helpdesk <br /> (online)* |                          | Lab <br /> (C0.05/L1.02)** |                       |                               |
