@@ -30,8 +30,7 @@ Not yet know. Schedule will appear here.
 
 * Help is available online.
 * Help is available on many moments throughout the week.
-* **You have to make an appointment**. You can make an appointment *up to one day ahead*, using this link: link
-<!-- [book a slot](https://balie.mprog.nl/planner/4-scientific-programming) -->
+* **You have to make an appointment**. You can make an appointment *up to one day ahead*, using this link: [Book Helpdesk](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/YkpwFIJMMkqDLSs-Fd-dhw2)
 * Join us using this link: [Online Scientific Programming Lab](https://www.wonder.me/r?id=e57e2eb3-a410-4833-98f5-01b2d982d488)
 
 ## Ed
