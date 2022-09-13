@@ -19,7 +19,7 @@ There are three ways to get help:
 | 13-15 |                          |                           |                       |                           | Lab <br /> (on campus*)            |
 | 15-17 | Helpdesk <br /> (online) |                          | Lab <br />  (on campus*) |                       |                               |
 
-* For the locations of the lab sessions, check Datanose.
+*For the locations of the lab sessions, check Datanose.
 
 ### Block 2 (Oct 31 - Dec 23)
 
