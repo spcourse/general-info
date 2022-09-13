@@ -14,12 +14,12 @@ There are three ways to get help:
 
 |       | Mon                      | Tue                       | Wed                   | Thu                       | Fri                           |
 |:-----:|:------------------------:|:-------------------------:|:---------------------:|:-------------------------:|:-----------------------------:|
-| 9-11  |                          | Helpdesk <br /> (online)  |                       | Helpdesk <br /> (online)  |                               |
+| 9-11  |                          | Helpdesk <br /> (online)  |                       | Helpdesk <br /> (online/on campus: SP D1.160)  |                               |
 | 11-13 |                          |                           |                       |                           |                               |
-| 13-15 |                          |                           |                       |                           | Lab <br /> (on campus)            |
-| 15-17 | Helpdesk <br /> (online) |                          | Lab <br />  (on campus) |                       |                               |
+| 13-15 |                          |                           |                       |                           | Lab <br /> (on campus*)            |
+| 15-17 | Helpdesk <br /> (online) |                          | Lab <br />  (on campus*) |                       |                               |
 
-? For the locations of the lab sessions, check Datanose.
+* For the locations of the lab sessions, check Datanose.
 
 ### Block 2 (Oct 31 - Dec 23)
 
