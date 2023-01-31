@@ -13,12 +13,13 @@ There are three ways to get help:
 | ------------------ | ---------------------------------- | -------------------------------------- | ---------------------------------- | --------------------------------- | --------------------------------- |
 | 6 - 12<br>(6/2/2023 - 24/3/2023)  | 17:00 - 19:00<br>Lab (Science Park L1.04) | 9:00 - 11:00<br>Helpdesk (online) | 15:00 - 17:00<br>Lab (Science Park L1.13) | 9:00 - 11:00<br>Helpdesk (online) <br>-<br> 17:00 - 19:00<br>Heldesk (online) | 13:00 - 15:00<br>Lab (Science Park L2.07) |
 
-
-All lab sessions take place on the Science Park campus, for which a map is included below.
-
-![](map.png)
-
 For UvA students, you can also find this schedule in Datanose: [here](https://datanose.nl/#course[110669])
+
+All lab sessions take place at Lab42 on the Science Park campus, for which a map is included below.
+
+![](map.jpg)
+
+
 
 ### Helpdesk
 
