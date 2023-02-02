@@ -28,12 +28,14 @@ The helpdesk is the way to get one-on-one online help with your programming assi
 * The helpdesk is available online.
 * The helpdesk is available on three moments throughout the week.
 * **You have to make an appointment**. You can make an appointment (up to three days ahead) using this link: [Book Helpdesk](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/YkpwFIJMMkqDLSs-Fd-dhw2)
+* Join us using this link: [Online Scientific Programming Lab](https://www.wonder.me/r?id=e57e2eb3-a410-4833-98f5-01b2d982d488)
+* On Tuesdays you can also choose to join the helpdesk on campus.
 
 ### Ed
 
 We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
 
-* Use the forum: [Ed forum](https://edstem.org/us/courses/27745/discussion/).
+* Use the forum: [Ed forum](https://edstem.org/eu/courses/331/discussion/).
 * If you don't have access to the forum yet, please send and [email](mailto:scientific@mprog.nl) to get access.
 
 ### Lab sessions
