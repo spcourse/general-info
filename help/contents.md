@@ -11,7 +11,7 @@ There are three ways to get help:
 
 | Week               | Mon                                | Tue                                    | Wed                                | Thu                               | Fri                               |
 | ------------------ | ---------------------------------- | -------------------------------------- | ---------------------------------- | --------------------------------- | --------------------------------- |
-| 14 - 22<br>(3/4/2023 - 2/6/2023)  | 9:00 - 11:00<br>Helpdesk (online) <br>-<br> 17:00-19:00<br>Lab (Science Park L1.04) | 13:00-15:00<br>Lab (Science Park L0.11) | 9:00 - 11:00<br>Helpdesk (hybrid) <br>-<br> 15:00 - 17:00<br>Heldesk (online) | 13:00 - 15:00<br>Lab (Science Park L0.06) |  |
+| 14 - 22<br>(3/4/2023 - 2/6/2023)  | 9:00 - 11:00<br>Helpdesk (online) <br>-<br> 17:00-19:00<br>Lab (Science Park L1.04) | 13:00-15:00<br>Lab (Science Park L0.11) | 9:00 - 11:00<br>Helpdesk (online/L1.10) <br>-<br> 15:00 - 17:00<br>Heldesk (online) | 13:00 - 15:00<br>Lab (Science Park L0.06) |  |
 
 You can also find this schedule in Datanose: [here](https://datanose.nl/#course[111445])
 
