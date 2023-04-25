@@ -28,7 +28,7 @@ The helpdesk is the way to get one-on-one online help with your programming assi
 * The helpdesk is available online.
 * The helpdesk is available on three moments throughout the week.
 * **You have to make an appointment**. You can make an appointment (up to three days ahead) using this link: [Book Helpdesk](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/YkpwFIJMMkqDLSs-Fd-dhw2)
-* Join us using this link: [Online Scientific Programming Lab](https://www.wonder.me/r?id=e57e2eb3-a410-4833-98f5-01b2d982d488)
+* Join us on Teams: [Scientific Programming Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjE5YWUyNTAtNzA5Ny00ODZjLTk2MzItMzkzYjgzZjY2NTFk%40thread.v2/0?context=%7b%22Tid%22%3a%22a0f1cacd-618c-4403-b945-76fb3d6874e5%22%2c%22Oid%22%3a%229290e777-ffaa-4e83-b0cf-9449ff933d7f%22%7d)
 * On Tuesdays you can also choose to join the helpdesk on campus.
 
 ### Ed
